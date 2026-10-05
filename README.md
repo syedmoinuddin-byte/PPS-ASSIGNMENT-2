@@ -1,4 +1,4 @@
-# PPS-ASSG-2
+# PPS-ASSGNMENT-2
 
 **Course:** Programming For Problem Solving (U26CS101)
 **Institute:** Lords Institute of Engineering and Technology
